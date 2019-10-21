@@ -72,6 +72,7 @@
                   Radio.Button
                   Radio.Group
                   Rate
+                  Result
                   Row
                   Select
                   Select.OptGroup
